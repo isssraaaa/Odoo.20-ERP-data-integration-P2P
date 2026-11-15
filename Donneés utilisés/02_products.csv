@@ -1,0 +1,57 @@
+﻿id,name,default_code,barcode,categ_id/id,type,is_storable,list_price,standard_price,sale_ok,purchase_ok
+prod_p001,"Samsung 55"" Crystal UHD 4K Smart TV",GE-TV-001,613000000001,c_tv,Goods,True,79000,65650,True,True
+prod_p002,"LG 65"" NanoCell 4K Smart TV",GE-TV-002,613000000002,c_tv,Goods,True,139000,121000,True,True
+prod_p003,"Condor 43"" Smart LED TV",GE-TV-003,613000000003,c_tv,Goods,True,36000,30750,True,True
+prod_p004,"TCL 50"" 4K Google TV",GE-TV-004,613000000004,c_tv,Goods,True,59000,50600,True,True
+prod_p005,"Sony Bravia 55"" 4K Google TV",GE-TV-005,613000000005,c_tv,Goods,True,129000,106400,True,True
+prod_p006,"Hisense 65"" ULED 4K",GE-TV-006,613000000006,c_tv,Goods,True,119000,98600,True,True
+prod_p007,Samsung Soundbar HW-B450,GE-TV-007,613000000007,c_tv,Goods,True,34000,27700,True,True
+prod_p008,JBL Flip 6 Bluetooth Speaker,GE-TV-008,613000000008,c_tv,Goods,True,18500,16050,True,True
+prod_p009,Sony WH-1000XM5 Headphones,GE-TV-009,613000000009,c_tv,Goods,True,62000,52400,True,True
+prod_p010,Samsung Galaxy S24 256GB,GE-MOB-010,613000000010,c_mob,Goods,True,189000,170600,True,True
+prod_p011,Samsung Galaxy A15 128GB,GE-MOB-011,613000000011,c_mob,Goods,True,38000,33950,True,True
+prod_p012,Xiaomi Redmi Note 13 128GB,GE-MOB-012,613000000012,c_mob,Goods,True,42000,36950,True,True
+prod_p013,Apple iPhone 15 128GB,GE-MOB-013,613000000013,c_mob,Goods,True,215000,194100,True,True
+prod_p014,Oppo A58 128GB,GE-MOB-014,613000000014,c_mob,Goods,True,33000,29500,True,True
+prod_p015,Tecno Spark 20 128GB,GE-MOB-015,613000000015,c_mob,Goods,True,22000,19200,True,True
+prod_p016,Honor X7b 128GB,GE-MOB-016,613000000016,c_mob,Goods,True,41000,36000,True,True
+prod_p017,Samsung Galaxy Tab A9 64GB,GE-MOB-017,613000000017,c_mob,Goods,True,35000,31250,True,True
+prod_p018,HP 15 Core i5 Laptop 8GB/512GB,GE-IT-018,613000000018,c_it,Goods,True,98000,83800,True,True
+prod_p019,Lenovo IdeaPad 3 Ryzen 5,GE-IT-019,613000000019,c_it,Goods,True,85000,71650,True,True
+prod_p020,Asus Vivobook 15 Core i5,GE-IT-020,613000000020,c_it,Goods,True,105000,93200,True,True
+prod_p021,Dell Inspiron 15 Core i7,GE-IT-021,613000000021,c_it,Goods,True,115000,96950,True,True
+prod_p022,"Apple MacBook Air M2 13""",GE-IT-022,613000000022,c_it,Goods,True,235000,199500,True,True
+prod_p023,HP LaserJet Pro M111w Printer,GE-IT-023,613000000023,c_it,Goods,True,42000,36500,True,True
+prod_p024,Canon PIXMA G3430 Ink Tank,GE-IT-024,613000000024,c_it,Goods,True,21000,18450,True,True
+prod_p025,Logitech M185 Wireless Mouse,GE-IT-025,613000000025,c_it,Goods,True,3500,2900,True,True
+prod_p026,LG 8kg Front Load Washer,GE-LG-026,613000000026,c_lg,Goods,True,89000,72350,True,True
+prod_p027,Samsung 9kg Front Load Washer,GE-LG-027,613000000027,c_lg,Goods,True,105000,87400,True,True
+prod_p028,Condor 450L No-Frost Fridge,GE-LG-028,613000000028,c_lg,Goods,True,98000,81550,True,True
+prod_p029,Brandt 2-Door Fridge 380L,GE-LG-029,613000000029,c_lg,Goods,True,110000,84950,True,True
+prod_p030,Beko 12-Place Dishwasher,GE-LG-030,613000000030,c_lg,Goods,True,85000,67300,True,True
+prod_p031,Iris 5-Burner Gas Cooker,GE-LG-031,613000000031,c_lg,Goods,True,52000,40300,True,True
+prod_p032,Haier 300L Chest Freezer,GE-LG-032,613000000032,c_lg,Goods,True,75000,58600,True,True
+prod_p033,Condor 7kg Washing Machine,GE-LG-033,613000000033,c_lg,Goods,True,59000,47050,True,True
+prod_p034,Condor Split AC 12000 BTU,GE-AC-034,613000000034,c_ac,Goods,True,69000,50950,True,True
+prod_p035,LG Dual Inverter AC 18000 BTU,GE-AC-035,613000000035,c_ac,Goods,True,135000,106750,True,True
+prod_p036,Samsung WindFree AC 12000 BTU,GE-AC-036,613000000036,c_ac,Goods,True,99000,76750,True,True
+prod_p037,Haier Split AC 24000 BTU,GE-AC-037,613000000037,c_ac,Goods,True,145000,108900,True,True
+prod_p038,Moulinex Blender Easy Force,GE-SM-038,613000000038,c_sm,Goods,True,9500,7000,True,True
+prod_p039,Philips Airfryer XL,GE-SM-039,613000000039,c_sm,Goods,True,22000,15700,True,True
+prod_p040,Tefal Steam Iron,GE-SM-040,613000000040,c_sm,Goods,True,8500,6300,True,True
+prod_p041,Kenwood Food Processor,GE-SM-041,613000000041,c_sm,Goods,True,28000,20450,True,True
+prod_p042,De'Longhi Espresso Machine,GE-SM-042,613000000042,c_sm,Goods,True,45000,35800,True,True
+prod_p043,Xiaomi Robot Vacuum E10,GE-SM-043,613000000043,c_sm,Goods,True,48000,37300,True,True
+prod_p044,Bosch Bagged Vacuum Cleaner,GE-SM-044,613000000044,c_sm,Goods,True,32000,24650,True,True
+prod_p045,Sony PlayStation 5 Slim,GE-GM-045,613000000045,c_gm,Goods,True,119000,109100,True,True
+prod_p046,Xbox Series S 512GB,GE-GM-046,613000000046,c_gm,Goods,True,75000,68300,True,True
+prod_p047,Nintendo Switch OLED,GE-GM-047,613000000047,c_gm,Goods,True,69000,63200,True,True
+prod_p048,Logitech G435 Wireless Headset,GE-GM-048,613000000048,c_gm,Goods,True,14000,12700,True,True
+prod_p049,HDMI 2.0 Cable 2m,GE-ACC-049,613000000049,c_acc,Goods,True,1500,950,True,True
+prod_p050,Power Strip 5 Outlets,GE-ACC-050,613000000050,c_acc,Goods,True,2500,1650,True,True
+prod_p051,Samsung 25W Fast Charger,GE-ACC-051,613000000051,c_acc,Goods,True,3800,2550,True,True
+prod_p052,Anker Power Bank 10000mAh,GE-ACC-052,613000000052,c_acc,Goods,True,5500,3800,True,True
+prod_p053,Samsung microSD 128GB,GE-ACC-053,613000000053,c_acc,Goods,True,3200,2200,True,True
+prod_p054,Kingston NV2 SSD 500GB,GE-ACC-054,613000000054,c_acc,Goods,True,9500,5600,True,True
+prod_p055,"TV Wall Mount 32-65""",GE-ACC-055,613000000055,c_acc,Goods,True,4500,2850,True,True
+prod_p056,Voltage Stabilizer 1000VA,GE-ACC-056,613000000056,c_acc,Goods,True,6500,4150,True,True

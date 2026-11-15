@@ -1,0 +1,12 @@
+﻿id,name,company_type,city,country_id,phone,email
+ven_v01,Samsung Electronics Algérie SPA,Company,Alger,Algeria,021279451,sales@samsung.dz
+ven_v02,LG Electronics Algérie,Company,Alger,Algeria,021864544,sales@lg.dz
+ven_v03,Condor Electronics SPA,Company,Bordj Bou Arréridj,Algeria,021271339,sales@condor.dz
+ven_v04,Brandt Algérie (Cevital),Company,Béjaïa,Algeria,021497887,sales@brandt.dz
+ven_v05,Sony Distribution MENA,Company,Alger,Algeria,021771088,sales@sony.dz
+ven_v06,ACT Informatique Distribution,Company,Alger,Algeria,021684004,sales@act.dz
+ven_v07,Apple Premium Reseller DZ,Company,Alger,Algeria,021817870,sales@apple.dz
+ven_v08,Mobile Import Group,Company,Oran,Algeria,021983794,sales@mobile.dz
+ven_v09,TCL-Hisense Import Algérie,Company,Blida,Algeria,021340174,sales@tcl-hisense.dz
+ven_v10,Small Appliance Trading SARL,Company,Sétif,Algeria,021944151,sales@small.dz
+ven_v11,Accessoires Pro Import,Company,Alger,Algeria,021520651,sales@accessoires.dz

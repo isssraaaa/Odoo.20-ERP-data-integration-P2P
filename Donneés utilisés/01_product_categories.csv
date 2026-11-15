@@ -1,0 +1,10 @@
+﻿id,name,parent_id/id
+c_all,All / Geant Catalog,
+c_tv,TV & Audio,c_all
+c_mob,Mobile & Tablets,c_all
+c_it,Computing,c_all
+c_lg,Large Appliances,c_all
+c_ac,Air Conditioning,c_all
+c_sm,Small Appliances,c_all
+c_gm,Gaming,c_all
+c_acc,Accessories,c_all
