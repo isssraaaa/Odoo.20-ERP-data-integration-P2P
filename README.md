@@ -155,7 +155,7 @@ Ces vérifications portent sur le scénario de démonstration exécuté dans
 la base Odoo. Elles ne constituent pas une validation d'un système de
 production ni d'opérations commerciales réelles.
 
-## 8. Limites du projet
+## 7. Limites du projet
 
 Le projet repose sur un environnement de démonstration et des données
 fictives. Les documents commerciaux et les transactions utilisés pour le
@@ -173,8 +173,7 @@ concernées.
 
 Le guide utilisateur détaillé du processus P2P est disponible ici :
 
--   **[Guide utilisateur -- Processus P2P sur Odoo
-    20](documentation/P2P_User_Guide_FR.pdf)**
+- [documentation/P2P_User_Guide_FR.pdf](https://github.com/isssraaaa/Odoo.20-ERP-data-integration-P2P/blob/1b763c83fc06d21d8be914432b143979b6cec431/Guide_utilisateur_P2P_Odoo20.pdf)
 
 Le guide décrit la navigation dans Odoo, les champs importants, les
 opérations à effectuer, les contrôles et les principaux points de
