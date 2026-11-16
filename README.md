@@ -16,7 +16,7 @@ règlement du fournisseur.
 Le projet est réalisé dans un environnement de démonstration.
 L'entreprise, les opérations et les documents commerciaux utilisés dans
 les scénarios sont fictifs et ne représentent pas des transactions
-réelles de Géant.
+réelles.
 
 ## 2. Environnement et périmètre
 
@@ -29,9 +29,7 @@ réelles de Géant.
     utilisé.
 
 Le périmètre de cette version couvre la préparation et l'intégration des
-données nécessaires au scénario, ainsi que l'exécution du cycle P2P. Les
-autres processus ERP ne sont pas présentés comme réalisés dans cette
-version.
+données nécessaires au scénario, ainsi que l'exécution du cycle P2P.
 
 ## 3. Sources et description des données
 
@@ -63,43 +61,15 @@ utilisés dans le scénario sont `ALG/Stock`, `ORA/Stock` et `CST/Stock`.
 
 Les données utilisées dans ce projet ont été **générées de manière
 synthétique à l'aide de Claude (Anthropic)** afin de simuler
-l'environnement opérationnel d'une entreprise de distribution. Elles
-ont ensuite été organisées en fichiers tabulaires pour représenter les
-différentes entités nécessaires à la démonstration et faciliter leur
-importation dans Odoo 20.
+l'environnement opérationnel d'une entreprise de distribution. 
 
 Il ne s'agit donc ni d'un dataset public téléchargé ni de données
-réelles provenant de Géant ou d'une autre entreprise. Les fournisseurs,
+réelles provenant d'une entreprise. Les fournisseurs,
 produits, emplacements, quantités de stock et opérations présentés dans
 le projet sont fictifs et utilisés uniquement à des fins de formation et
 de démonstration.
 
-## 4. Préparation et structuration des données
-
-Avant leur importation, les fichiers ont été organisés pour correspondre
-aux entités et aux champs attendus dans Odoo.
-
-Les travaux de préparation ont notamment porté sur :
-
--   la séparation des données par entité (par exemple, produits et
-    fournisseurs) ;
--   la vérification des colonnes et des formats nécessaires à
-    l'importation ;
--   l'utilisation de références permettant d'identifier les
-    enregistrements ;
--   la préparation des données de stock par produit et par emplacement ;
--   la vérification de la cohérence des informations avant et après
-    importation.
-
-Une attention particulière a été portée aux identifiants. La **référence
-interne** est un code métier utilisé pour identifier un produit dans
-Odoo. L'**External ID**, lorsqu'il est utilisé dans un import, est un
-identifiant technique qui permet à Odoo de reconnaître un enregistrement
-de manière stable, notamment lors de mises à jour ou de la création de
-relations entre enregistrements. Ces deux notions ne sont donc pas
-interchangeables.
-
-## 5. Intégration des données dans Odoo
+## 4. Intégration des données dans Odoo
 
 L'importation a été réalisée à partir des interfaces d'import d'Odoo.
 L'ordre d'importation a été défini en tenant compte des dépendances
@@ -129,7 +99,7 @@ Les contrôles après importation sont essentiels : un import terminé sans
 message d'erreur ne garantit pas, à lui seul, que toutes les données et
 relations métier sont correctes.
 
-## 6. Mise en pratique du processus Procure-to-Pay (P2P)
+## 5. Mise en pratique du processus Procure-to-Pay (P2P)
 
 Une fois les données nécessaires intégrées, le processus P2P a été
 exécuté dans Odoo 20 à travers un scénario d'achat auprès d'un
@@ -165,7 +135,7 @@ distinction entre le montant hors taxes enregistré en charge selon la
 configuration utilisée, la TVA récupérable et la dette fournisseur
 toutes taxes comprises.
 
-## 7. Résultats et contrôles réalisés
+## 6. Résultats et contrôles réalisés
 
 Les principaux résultats vérifiés dans le cadre du projet sont :
 
@@ -199,7 +169,7 @@ les données de référence, les règles comptables et fiscales, les droits
 d'accès, les workflows et les procédures internes avec les équipes
 concernées.
 
-## 9. Documentation complémentaire
+## 8. Documentation complémentaire
 
 Le guide utilisateur détaillé du processus P2P est disponible ici :
 
